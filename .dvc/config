@@ -1,0 +1,4 @@
+[core]
+    remote = panel_data
+['remote "panel_data"']
+    url = ../dataset
